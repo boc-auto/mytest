@@ -1,0 +1,9 @@
+companies:
+  -
+    id: 1
+    name: test1
+    price: 200W
+  -
+    id: 2
+    name: test2
+    price: 500W
